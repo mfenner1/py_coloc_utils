@@ -19,8 +19,6 @@ Big items:
    functions.
 
  * Test cases and documentation.
- 
-
 
 LICENSE
 =======
